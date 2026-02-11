@@ -1,4 +1,4 @@
-module ProgressBar
+module github.com/jlqwer/ProgressBar
 
 go 1.24.0
 
